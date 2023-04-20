@@ -1,8 +1,8 @@
 
-## Bem-vindo(a) ao perfil da Ana Caroline 😁
+## Bem-vindo(a) ao perfil da Ana Caroline Oliveira 😁
 
 <div> 
-  <a href="https://github.com/CrazyQueen0109"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrazyQueen0109&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <a href="https://github.com/AnaCarolineOliv"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrazyQueen0109&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyQueen0109&layout=compact&langs_count=6&theme=tokyonight"/> 
 </div> 
 <div style="display: inline_block">
@@ -22,5 +22,10 @@
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href=" https://www.linkedin.com/in/ana-caroline-oliveira23" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg) 
+   <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
